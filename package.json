@@ -1,0 +1,26 @@
+{
+  "name": "kitset-instagram-htmlonly",
+  "version": "1.0.0",
+  "description": "Kitset Instagram Clone html only",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitsetio/instagram-clone-htmlonly.git"
+  },
+  "keywords": [
+    "instagram",
+    "kitsetio",
+    "css",
+    "html",
+    "react"
+  ],
+  "author": "nick@kitset.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitsetio/instagram-clone-htmlonly/issues"
+  },
+  "homepage": "https://github.com/kitsetio/instagram-clone-htmlonly#readme"
+}
